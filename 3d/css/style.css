@@ -11,7 +11,7 @@ body{
 }
 
 .stage{
-	width: 133px;
+	width: 100px;
 	height: 200px;
 	margin: 278px auto;
 	position: relative;
@@ -27,7 +27,7 @@ body{
 }
 
 .stage img{
-	width: 133px;
+	width: 100px;
 	height: 200px;
 	position: absolute;
 	-webkit-box-reflect: below 10px -webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.7) 100%);
